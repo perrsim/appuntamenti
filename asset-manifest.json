@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appuntamenti/static/css/main.c5f0db27.css",
+    "main.js": "/appuntamenti/static/js/main.93fa23ee.js",
+    "index.html": "/appuntamenti/index.html",
+    "main.c5f0db27.css.map": "/appuntamenti/static/css/main.c5f0db27.css.map",
+    "main.93fa23ee.js.map": "/appuntamenti/static/js/main.93fa23ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f0db27.css",
+    "static/js/main.93fa23ee.js"
+  ]
+}
