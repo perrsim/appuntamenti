@@ -20,7 +20,7 @@ const reloadItems = ()=>{
     <>
     <section className="container">
       <div className="container w-75">
-        <h2 style={{color: "var(--bg-blue)"}}>Prossimi Incontri</h2>
+        <h2 className="people-title">Prossimi Incontri</h2>
         <div className="people-list">
           <List data={people} removeItems={removeItems}/>
         </div>
